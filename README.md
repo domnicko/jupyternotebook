@@ -13,12 +13,12 @@ In the eda directory, you will find examples of how to perform exploratory data 
 ### Requirements
 The code in this repository was written using Python 3.7. To run the examples, you will need to install the following packages:
 
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
-You can install these packages using pip:
+#### NumPy
+#### Pandas
+#### Matplotlib
+#### Seaborn
+#### Scikit-learn
+#### You can install these packages using pip:
 
 ### Copy code
 pip install numpy pandas matplotlib seaborn scikit-learn
